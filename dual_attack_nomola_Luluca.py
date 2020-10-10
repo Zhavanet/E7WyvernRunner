@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 19 13:48:30 2020
 
-@author: Winver
+
 """
 
 import random
